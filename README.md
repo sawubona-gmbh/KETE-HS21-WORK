@@ -1,6 +1,6 @@
-MSc WINF - Modul KETE (Key Technologies)
-Herbstsemester 2020
+MSc WINF - Modul KETE (Key Technologies) (HS20)
 ===========================================================
+
 Sample Code and Script Repository for WINF Modul KETE 
 
 -----------------------------------------------------------

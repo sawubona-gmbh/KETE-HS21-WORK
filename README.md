@@ -1,4 +1,3 @@
-# KETE-HS20
 MSc WINF - Modul KETE (Key Technologies)
 Herbstsemester 2020
 ===========================================================

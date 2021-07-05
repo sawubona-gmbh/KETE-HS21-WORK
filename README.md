@@ -1,11 +1,11 @@
-MSc WINF - Modul KETE (Key Technologies) (HS20)
+MSc WINF - Modul KETE (Key Technologies) (HS21)
 ===========================================================
 
 Sample Code and Script Repository for WINF Modul KETE 
 
 -----------------------------------------------------------
 History:
-Aug 12th  dbe  initially created
+July 5th  dbe  initially created
 
 -----------------------------------------------------------
 Content:

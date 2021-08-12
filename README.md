@@ -2,10 +2,8 @@ MSc WINF - Modul KETE (Key Technologies) (HS21)
 ===============================================
 ## This a the Public Repository for KETE HS21 Students 
 
-Sample Code and Script Repository for WINF Modul KETE 
-
-This GitHub Repository will be the central soucre of information to support the lectures
-of the Module "Key Technologies" (KETE)
+Sample Code and Script Repository for WINF Modul "Key Technologies" (KETE). This GitHub Repository will be the central soucre of information to support the lectures
+of the Module KETE
 
 In addition this repository will also be used by the KETE students themself to share, export or store their code artefatcs for the coding projects
 

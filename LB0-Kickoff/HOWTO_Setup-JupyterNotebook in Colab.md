@@ -1,7 +1,7 @@
 # **HOWTO Setup a Jupyter Notebook**
 ###### Last update: 23/8/21 dbe - final v1
 
-## Summary
+### Summary
 
 The purpose of this [Jupyter Notebook](http://jupyter.org/) is to get
 you started using Python and Jupyter Notebooks for routine chemical
@@ -12,7 +12,7 @@ exposure to Python or Jupyter notebooks.
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.2 Step 0: Gain Executable Access to Jupyter Notebooks](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.2-Step-0:-Gain-Executable-Access-to-Jupyter-Notebooks)&quot;,&quot;level&quot;:2,&quot;section&quot;:&quot;1.1.2 Step 0: Gain Executable Access to Jupyter Notebooks&quot;}" data-slideshow="{&quot;slide_type&quot;:&quot;slide&quot;}">
 
-## Step 0: Gain Executable Access to Jupyter Notebooks
+### Step 0: Gain Executable Access to Jupyter Notebooks
 
 Jupyter notebooks are documents that can be viewed and executed inside
 any modern web browser. Since you're reading this notebook, you already
@@ -38,12 +38,11 @@ currently 3.6, of the Python language.
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.2.1 Using Jupyter/Python in the Cloud](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.2.1-Using-Jupyter/Python-in-the-Cloud)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.2.1 Using Jupyter/Python in the Cloud&quot;}" data-slideshow="{&quot;slide_type&quot;:&quot;slide&quot;}">
 
-### Using Jupyter/Python in the Cloud
+#### Using Jupyter/Python in the Cloud
 
-The easiest way to use Jupyter notebooks is to sign up for a free or
-paid account on a cloud-based service such as
-[Wakari.io](https://www.wakari.io/) or
-[SageMathCloud](https://cloud.sagemath.com/). You will need continuous
+The easiest way to use Jupyter notebooks is to sign up for a free account on a cloud-based service such as
+[Google Colab](https://colab.research.google.com/) or
+[Kaggle](https://www.kaggle.com/code). You will need continuous
 internet connectivity to access your work, but the advantages are there
 is no software to install or maintain. All you need is a modern web
 browser on your laptop, Chromebook, tablet or other device. Note that

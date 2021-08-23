@@ -8,10 +8,6 @@ you started using Python and Jupyter Notebooks for routine chemical
 engineering calculations. This introduction assumes this is your first
 exposure to Python or Jupyter notebooks.
 
-</div>
-
-<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.2 Step 0: Gain Executable Access to Jupyter Notebooks](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.2-Step-0:-Gain-Executable-Access-to-Jupyter-Notebooks)&quot;,&quot;level&quot;:2,&quot;section&quot;:&quot;1.1.2 Step 0: Gain Executable Access to Jupyter Notebooks&quot;}" data-slideshow="{&quot;slide_type&quot;:&quot;slide&quot;}">
-
 ### Step 0: Gain Executable Access to Jupyter Notebooks
 
 Jupyter notebooks are documents that can be viewed and executed inside
@@ -34,9 +30,6 @@ transition from 2.x to 3.x, but it is now safe to recommend Python 3.x
 for widespread use. So for this course be sure to use latest verstion,
 currently 3.6, of the Python language.
 
-</div>
-
-<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.2.1 Using Jupyter/Python in the Cloud](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.2.1-Using-Jupyter/Python-in-the-Cloud)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.2.1 Using Jupyter/Python in the Cloud&quot;}" data-slideshow="{&quot;slide_type&quot;:&quot;slide&quot;}">
 
 #### Using Jupyter/Python in the Cloud
 
@@ -57,9 +50,6 @@ demonstration and generally quite overloaded. More significantly, there
 is no way to retain your work between sessions, and some python
 functionality is removed for security reasons.
 
-</div>
-
-<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.2.2 Installing Jupyter/Python on your Laptop](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.2.2-Installing-Jupyter/Python-on-your-Laptop)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.2.2 Installing Jupyter/Python on your Laptop&quot;}" data-slideshow="{&quot;slide_type&quot;:&quot;slide&quot;}">
 
 ### Installing Jupyter/Python on your Laptop
 
@@ -86,9 +76,6 @@ commands in a terminal window:
 Anaconda includes an 'Anaconda Navigator' application that simplifies
 startup of the notebook environment and manage the update process.
 
-</div>
-
-<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.3 Step 1: Start a Jupyter Notebook Session](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.3-Step-1:-Start-a-Jupyter-Notebook-Session)&quot;,&quot;level&quot;:2,&quot;section&quot;:&quot;1.1.3 Step 1: Start a Jupyter Notebook Session&quot;}">
 
 ## Step 1: Start a Jupyter Notebook Session
 
@@ -113,7 +100,7 @@ you can open a Jupyter session in one of two different ways:
       > jupyter notebook
     ```
 
-Either way, once you have opened a session you should see a browser
+And when you have opened a session you should see a browser
 window like this:
 
 ![Screen Shot Jupyter Session](figures/Screen-Shot-Jupyter-Session.png)
@@ -138,25 +125,7 @@ An IPython notebook consists of cells that hold headings, text, or
 python code. The user interface is relatively self-explanatory. Take a
 few minutes now to open, rename, and save a new notebook.
 
-Here's a quick video overview of Jupyter notebooks.
+Here's a quick [video overview](https://youtu.be/HW29067qVWk) of Jupyter notebooks.
 
-</div>
-
-<div class="cell code" data-execution_count="1" data-nbpages="{&quot;link&quot;:&quot;[1.1.3 Step 1: Start a Jupyter Notebook Session](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.3-Step-1:-Start-a-Jupyter-Notebook-Session)&quot;,&quot;level&quot;:2,&quot;section&quot;:&quot;1.1.3 Step 1: Start a Jupyter Notebook Session&quot;}">
-
-``` python
-from IPython.display import YouTubeVideo
-YouTubeVideo("HW29067qVWk",560,315,rel=0)
-```
-
-<div class="output execute_result" data-execution_count="1">
-
-![](e64631d1d3c34ed9e06602e6c7fef619e10b49a6.jpg)
-
-</div>
-
-</div>
-
-<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4 Step 2: Simple Calculations with Python](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4-Step-2:-Simple-Calculations-with-Python)&quot;,&quot;level&quot;:2,&quot;section&quot;:&quot;1.1.4 Step 2: Simple Calculations with Python&quot;}">
 
 ## Step 2: Simple Calculations with Python

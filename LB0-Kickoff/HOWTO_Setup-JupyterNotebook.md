@@ -51,7 +51,7 @@ is no way to retain your work between sessions, and some python
 functionality is removed for security reasons.
 
 
-### Installing Jupyter/Python on your Laptop
+#### Installing Jupyter/Python on your Laptop
 
 For regular off-line use you should consider installing a Jupyter
 Notebook/Python environment directly on your laptop. This will provide
@@ -77,7 +77,7 @@ Anaconda includes an 'Anaconda Navigator' application that simplifies
 startup of the notebook environment and manage the update process.
 
 
-## Step 1: Start a Jupyter Notebook Session
+### Step 1: Start a Jupyter Notebook Session
 
 If you are using a cloud-based service a Jupyter session will be started
 when you log on.
@@ -128,14 +128,14 @@ few minutes now to open, rename, and save a new notebook.
 Here's a quick [video overview](https://youtu.be/HW29067qVWk) of Jupyter notebooks.
 
 
-## Step 2: Simple Calculations with Python  
+### Step 2: Simple Calculations with Python  
 
 Python is an elegant and modern language for programming and problem
 solving that has found increasing use by engineers and scientists. In
 the next few cells we'll demonstrate some basic Python functionality.
 
 
-### Example: Basic Arithmetic Operations
+#### Example: Basic Arithmetic Operations
 
 Basic arithmetic operations are built into the Python langauge. Here are
 some examples. In particular, note that exponentiation is done with the
@@ -159,7 +159,7 @@ print(a/b)
 </div>
 
 
-### Example: Python Libraries
+#### Example: Python Libraries
 
 The Python language has only very basic operations. Most math functions
 are in various math libraries. The `numpy` library is convenient
@@ -197,3 +197,124 @@ print(np.tan(angle))
 </div>
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+    
+#### Example: Working with Lists
+
+Lists are a versatile way of organizing your data in Python. Here are
+some examples, more can be found on [this Khan Academy
+video](http://youtu.be/zEyEC34MY1A).
+
+</div>
+
+<div class="cell code" data-execution_count="4" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+``` python
+xList = [1, 2, 3, 4]
+xList
+```
+
+<div class="output execute_result" data-execution_count="4">
+
+    [1, 2, 3, 4]
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+Concatentation is the operation of joining one list to another.
+
+</div>
+
+<div class="cell code" data-execution_count="5" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+``` python
+# Concatenation
+x = [1, 2, 3, 4];
+y = [5, 6, 7, 8];
+
+x + y
+```
+
+<div class="output execute_result" data-execution_count="5">
+
+    [1, 2, 3, 4, 5, 6, 7, 8]
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+Sum a list of numbers
+
+</div>
+
+<div class="cell code" data-execution_count="6" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+``` python
+np.sum(x)
+```
+
+<div class="output execute_result" data-execution_count="6">
+
+``` 
+10
+```
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+An element-by-element operation between two lists may be performed with
+
+</div>
+
+<div class="cell code" data-execution_count="7" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+``` python
+print(np.add(x,y))
+print(np.dot(x,y))
+```
+
+<div class="output stream stdout">
+
+    [ 6  8 10 12]
+    70
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+A for loop is a means for iterating over the elements of a list. The
+colon marks the start of code that will be executed for each element of
+a list. Indenting has meaning in Python. In this case, everything in the
+indented block will be executed on each iteration of the for loop. This
+example also demonstrates string formatting.
+
+</div>
+
+<div class="cell code" data-execution_count="8" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
+
+``` python
+for x in xList:
+    print("sin({0}) = {1:8.5f}".format(x,np.sin(x)))
+```
+
+<div class="output stream stdout">
+
+    sin(1) =  0.84147
+    sin(2) =  0.90930
+    sin(3) =  0.14112
+    sin(4) = -0.75680
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.4 Working with Dictionaries](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.4-Working-with-Dictionaries)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.4 Working with Dictionaries&quot;}">

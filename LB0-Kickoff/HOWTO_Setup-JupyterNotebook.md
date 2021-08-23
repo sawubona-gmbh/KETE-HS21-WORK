@@ -8,7 +8,7 @@ you started using Python and Jupyter Notebooks for routine chemical
 engineering calculations. This introduction assumes this is your first
 exposure to Python or Jupyter notebooks.
 
-### Step 0: Gain Executable Access to Jupyter Notebooks
+## Step 1: Gain Executable Access to Jupyter Notebooks
 
 Jupyter notebooks are documents that can be viewed and executed inside
 any modern web browser. Since you're reading this notebook, you already
@@ -31,7 +31,7 @@ for widespread use. So for this course be sure to use latest verstion,
 currently 3.6, of the Python language.
 
 
-#### Using Jupyter/Python in the Cloud
+### 1.1 Using Jupyter/Python in the Cloud
 
 The easiest way to use Jupyter notebooks is to sign up for a free account on a cloud-based service such as
 [Google Colab](https://colab.research.google.com/) or
@@ -51,7 +51,7 @@ is no way to retain your work between sessions, and some python
 functionality is removed for security reasons.
 
 
-#### Installing Jupyter/Python on your Laptop
+### 1.2 Installing Jupyter/Python on your Laptop
 
 For regular off-line use you should consider installing a Jupyter
 Notebook/Python environment directly on your laptop. This will provide
@@ -77,8 +77,9 @@ Anaconda includes an 'Anaconda Navigator' application that simplifies
 startup of the notebook environment and manage the update process.
 
 
-### Step 1: Start a Jupyter Notebook Session
+## Step 2: Start a Jupyter Notebook Session
 
+### 2.1 Using a cloud-based Service  
 If you are using a cloud-based service a Jupyter session will be started
 when you log on.
 
@@ -87,7 +88,7 @@ window like this:
 
 ![Screen Shot Jupyter Session](figures/Screen-Shot-Colab-Google-Session.jpg)
    
-
+### 2.2 Using a local Installation    
 If you have installed a Jupyter/Python distribution on your laptop then
 you can open a Jupyter session in one of two different ways:
 
@@ -128,14 +129,14 @@ few minutes now to open, rename, and save a new notebook.
 Here's a quick [video overview](https://youtu.be/HW29067qVWk) of Jupyter notebooks.
 
 
-### Step 2: Simple Calculations with Python  
+## Step 3: Simple Calculations with Python  
 
 Python is an elegant and modern language for programming and problem
 solving that has found increasing use by engineers and scientists. In
 the next few cells we'll demonstrate some basic Python functionality.
 
 
-#### Example: Basic Arithmetic Operations
+### 3.1 Example: Basic Arithmetic Operations
 
 Basic arithmetic operations are built into the Python langauge. Here are
 some examples. In particular, note that exponentiation is done with the
@@ -159,7 +160,7 @@ print(a/b)
 </div>
 
 
-#### Example: Python Libraries
+### 3.2 Example: Python Libraries
 
 The Python language has only very basic operations. Most math functions
 are in various math libraries. The `numpy` library is convenient
@@ -198,7 +199,7 @@ print(np.tan(angle))
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">
     
-#### Example: Working with Lists
+### 3.3 Example: Working with Lists
 
 Lists are a versatile way of organizing your data in Python. Here are
 some examples, more can be found on [this Khan Academy
@@ -319,7 +320,7 @@ for x in xList:
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.4 Working with Dictionaries](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.4-Working-with-Dictionaries)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.4 Working with Dictionaries&quot;}">
     
-#### Example: Plotting with Matplotlib
+### 3.4 Example: Plotting with Matplotlib
 
 Importing the `matplotlib.pyplot` library gives IPython notebooks
 plotting functionality very similar to Matlab's. Here are some examples

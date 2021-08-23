@@ -95,6 +95,12 @@ startup of the notebook environment and manage the update process.
 If you are using a cloud-based service a Jupyter session will be started
 when you log on.
 
+When you are accessing yor Collaboratory Account wih opening a notebook file (e.g."Willkommen bei Collaboratory") you should see a browser
+window like this:
+
+![Screen Shot Jupyter Session](figures/Screen-Shot-Colab-Google-Session.jpg)
+   
+
 If you have installed a Jupyter/Python distribution on your laptop then
 you can open a Jupyter session in one of two different ways:
 

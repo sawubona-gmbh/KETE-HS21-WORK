@@ -318,3 +318,40 @@ for x in xList:
 </div>
 
 <div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.4 Working with Dictionaries](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.4-Working-with-Dictionaries)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.4 Working with Dictionaries&quot;}">
+    
+#### Example: Plotting with Matplotlib
+
+Importing the `matplotlib.pyplot` library gives IPython notebooks
+plotting functionality very similar to Matlab's. Here are some examples
+using functions from the
+
+</div>
+
+<div class="cell code" data-execution_count="15" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.5 Plotting with Matplotlib](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.5-Plotting-with-Matplotlib)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.5 Plotting with Matplotlib&quot;}">
+
+``` python
+%matplotlib inline
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0,10)
+y = np.sin(x)
+z = np.cos(x)
+
+plt.plot(x,y,'b',x,z,'r')
+plt.xlabel('Radians');
+plt.ylabel('Value');
+plt.title('Plotting Demonstration')
+plt.legend(['Sin','Cos'])
+plt.grid()
+```
+
+<div class="output display_data">
+
+![](e104369567b97db11bc5547d8ee9d1d289ea8558.png)
+
+</div>
+
+</div>
+

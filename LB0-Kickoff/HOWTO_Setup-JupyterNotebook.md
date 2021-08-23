@@ -128,4 +128,72 @@ few minutes now to open, rename, and save a new notebook.
 Here's a quick [video overview](https://youtu.be/HW29067qVWk) of Jupyter notebooks.
 
 
-## Step 2: Simple Calculations with Python
+## Step 2: Simple Calculations with Python  
+
+Python is an elegant and modern language for programming and problem
+solving that has found increasing use by engineers and scientists. In
+the next few cells we'll demonstrate some basic Python functionality.
+
+
+### Example: Basic Arithmetic Operations
+
+Basic arithmetic operations are built into the Python langauge. Here are
+some examples. In particular, note that exponentiation is done with the
+\*\* operator.
+
+``` python
+a = 12
+b = 2
+
+print(a + b)
+print(a**b)
+print(a/b)
+```
+
+<div class="output stream stdout">
+
+    14
+    144
+    6.0
+
+</div>
+
+
+### Example: Python Libraries
+
+The Python language has only very basic operations. Most math functions
+are in various math libraries. The `numpy` library is convenient
+library. This next cell shows how to import `numpy` with the prefix
+`np`, then use it to call a common mathematical functions.
+
+</div>
+
+<div class="cell code" data-execution_count="3" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.2 Python Libraries](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.2-Python-Libraries)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.2 Python Libraries&quot;}">
+
+``` python
+import numpy as np
+
+# mathematical constants
+print(np.pi)
+print(np.e)
+
+# trignometric functions
+angle = np.pi/4
+print(np.sin(angle))
+print(np.cos(angle))
+print(np.tan(angle))
+```
+
+<div class="output stream stdout">
+
+    3.141592653589793
+    2.718281828459045
+    0.707106781187
+    0.707106781187
+    1.0
+
+</div>
+
+</div>
+
+<div class="cell markdown" data-nbpages="{&quot;link&quot;:&quot;[1.1.4.3 Working with Lists](https://jckantor.github.io/CBE30338/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html#1.1.4.3-Working-with-Lists)&quot;,&quot;level&quot;:3,&quot;section&quot;:&quot;1.1.4.3 Working with Lists&quot;}">

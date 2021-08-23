@@ -349,7 +349,7 @@ plt.grid()
 
 <div class="output display_data">
 
-![](e104369567b97db11bc5547d8ee9d1d289ea8558.png)
+![](figures/Screen-Shot-MATLIB-Plot.png)
 
 </div>
 

@@ -13,6 +13,7 @@ In addition this repository will also be used by the KETE students themself to s
 The Repository(Repo) is organized according to the different lecture topics and contains information like
 * HOW TO - short descriptions for tools, scripts, accounts, services etc.
 * CODE - code snippets and examples for demonstration and/or self study tasks
+* DOC - documentation of Tools, Services, Technologies, Topics etc.
 * LINKS - additional sources and information for special topics of the lectures
 
 

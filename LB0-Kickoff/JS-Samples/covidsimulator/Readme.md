@@ -14,7 +14,7 @@ index.html
 css/screen.css
 ```
 
-## How to use with codesandbox.io
+## How to use it with codesandbox.io
 
 1. create new sandbox, using p5.js template
 1. copy sketch.js code into sketch.js file

@@ -17,7 +17,7 @@ AntColony.js
 
 ## How to use it with the p5js.org online editor
 
-1. [Open code in the p5 editor](https://editor.p5js.org/dbenninger999/sketches/MFEpRLXnh)
+1. [Open code in the p5 editor](https://editor.p5js.org/KevinWorkman/sketches/BPYoZ__je)
 2. Push the "play" button and ... have fun
 
 ## Additional resources/samples

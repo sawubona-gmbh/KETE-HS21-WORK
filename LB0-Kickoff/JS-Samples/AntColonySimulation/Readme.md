@@ -17,12 +17,10 @@ Use standards p5.js file conventions
 AntColony.js
 ```
 
-## How to use it with codesandbox.io
+## How to use it with the p5js.org online editor
 
-1. create new sandbox, using p5.js template
-1. copy sketch.js code into sketch.js file
-1. watch the browser output
-1. play around with parameters in the sketch.js variables section 
+1. [Click here to view this code in the p5 editor](https://editor.p5js.org/KevinWorkman/sketches/BPYoZ__je)
+2. Push the "play" button and ... have fun
 
 ## Additional resources/samples
 * [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony)

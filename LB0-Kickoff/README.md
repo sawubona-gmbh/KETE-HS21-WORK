@@ -4,6 +4,7 @@
 
 ## Initial tasks for the module kickoff at 28/9/2021
 </br>
+
 1. Setup a personal GitHub Account 
 
 [HOWTO_Setup-GitHub-Account](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/master/LB0-Kickoff/HOWTO_Setup-GitHub-Account.md)  

@@ -24,6 +24,6 @@ AntColony.js
 2. Push the "play" button and ... have fun
 
 ## Additional resources/samples
-* [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony)
+* See [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony) for a detailed description of the code and more p5js example applications
 
 

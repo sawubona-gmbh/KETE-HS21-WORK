@@ -12,7 +12,7 @@ https://happycoding.io/examples/p5js/creating-classes/ant-colony
 
 ## Necessary files
 
-Use standards p5.js file conventions and JS/HTML/CSS constellation
+Use standards p5.js file conventions
 ```
 AntColony.js
 ```

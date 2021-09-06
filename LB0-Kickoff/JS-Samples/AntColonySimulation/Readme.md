@@ -25,6 +25,6 @@ AntColony.js
 1. play around with parameters in the sketch.js variables section 
 
 ## Additional resources/samples
-* [HappyCoding(https://happycoding.io/examples/p5js/creating-classes/ant-colony)
+* [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony)
 
 

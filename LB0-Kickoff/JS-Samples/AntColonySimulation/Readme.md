@@ -2,7 +2,7 @@
 
 ##### last update 6.09.2021/dbe
 
-This sketch implements a version of an (ant colony optimization algorithm)[https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms].  
+This sketch implements a version of an (ant colony optimization algorithm) [https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms].  
 Ants start out at their nest and leave behind pheromones as they travel around the grid.  
 When any ant finds food, it uses those pheromones to travel back to the nest, and it leaves behind new pheromones so other ants can find the food.
 

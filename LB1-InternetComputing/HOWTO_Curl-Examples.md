@@ -9,8 +9,8 @@ HTTP is the protocol used to fetch data from web servers. It is a very **simple 
 
 **The client**, curl, sends a HTTP request. The request contains a method (like GET, POST, HEAD etc), a number of request headers and sometimes a request body. **The HTTP server** responds with a status line (indicating if things went well), response headers and most often also a response body. The "body" part is the plain data you requested, like the actual HTML or the image etc.
 
-## Run Curl Commands Online @RegBin
+## Curl Online 
 Execute Curl commands directly from your browser. Learn Curl with live Curl examples.
-eqBin online Curl client supports the basic Curl commands for working with the HTTP/s protocol.
+**ReqBin online Curl** client supports the basic Curl commands for working with the HTTP/s protocol.
 Try it out https://reqbin.com/curl
 

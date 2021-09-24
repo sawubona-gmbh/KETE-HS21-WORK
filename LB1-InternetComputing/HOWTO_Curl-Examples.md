@@ -26,7 +26,9 @@ In Windows 10 you can use Curl directly from your Command Line, see [How To Chec
 
 ### Some Command Line Examples
 * xxx
-> curl xxx
+´´´
+curl xxx
+´´´
 
 * yyy
 

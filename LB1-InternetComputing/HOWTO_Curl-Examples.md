@@ -34,6 +34,7 @@ curl http://example.com
 * Save URL/URI output to file
 ```
 curl example.com > saved-example.html
+```  
 
 * Show request and response header
 ```

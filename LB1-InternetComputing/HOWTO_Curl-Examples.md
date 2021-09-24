@@ -22,3 +22,13 @@ The [curl project](https://curl.se/download.html) provides source packages for d
 
 In Windows 10 you can use Curl directly from your Command Line, see [How To Check Win10 for Curl](https://youtu.be/jwJv8QsWVag)
 
+![Win10 Curl Commandline](figures/screen-shot-win10-CURL-commandline.jpg)
+
+### Some Command Line Examples
+* xxx
+> curl xxx
+
+* yyy
+
+* zzz
+

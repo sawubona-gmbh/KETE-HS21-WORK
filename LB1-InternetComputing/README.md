@@ -1,5 +1,5 @@
 # LB1 - Internet Computing README
-###### Last update: 5/9/20 dbe
+###### Last update: 24/9/21 dbe
 </br>
 
 ## Tools
@@ -7,6 +7,8 @@
 * CURL [Command Line Tool and Library](https://curl.haxx.se/)     
   [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
   [Everything curl](https://ec.haxx.se/) is an extensive guide for all things curl
+  
+> Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL online or CommandLine
 
 * Stanford National Accelarator Laboratory  
   [Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)

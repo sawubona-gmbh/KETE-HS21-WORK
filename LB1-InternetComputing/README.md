@@ -14,10 +14,12 @@
 * Web Traffic Visualization  
   [Logstalgia](logstalgia.io) is a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.
 
-* Stanford National Accelarator Laboratory Network Monitoring    
+* Stanford National Accelarator Laboratory (SLAC)     
+  This is a list of over 700 tools used for Network (both LAN and WAN, public domain and commercial) Monitoring and where to find out more about them. The audience is mainly network administrators. Beginners will probably start at the Page Contents to focus in on what interests them.   
   [Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)
   
-* MX Toolbox Inc Supertool   
+* MX Toolbox Inc  
+  MxToolbox supports global Internet operations by providing free, fast and accurate network diagnostic and lookup tools.    
   [Supertool](https://mxtoolbox.com/SuperTool.aspx)
 
 </br>

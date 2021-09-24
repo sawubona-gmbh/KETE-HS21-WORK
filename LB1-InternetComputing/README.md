@@ -9,7 +9,7 @@
   CURL [Guide](https://ec.haxx.se/) is an extensive guide for all things curl
   CURL [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
    
-> Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL online or CommandLine
+> Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL Online or CommandLine
 
 * Stanford National Accelarator Laboratory  
   [Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)

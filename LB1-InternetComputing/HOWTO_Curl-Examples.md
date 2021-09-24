@@ -14,4 +14,4 @@ Execute Curl commands directly from your browser. Learn Curl with live Curl exam
 **ReqBin online Curl** client supports the basic Curl commands for working with the HTTP/s protocol.
 Try it out https://reqbin.com/curl
 
-![ReqBib Curl Online](figures/Screen-Shot-ReqBin-Curl-Online.jpg)
+![ReqBib Curl Online](figures/Screen-Shot-ReqBin-CURL-Online.jpg)

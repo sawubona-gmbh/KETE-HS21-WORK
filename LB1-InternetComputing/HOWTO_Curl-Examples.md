@@ -29,7 +29,7 @@ In Windows 10 you can use Curl directly from your Command Line, see [How To Chec
 ```
 curl example.com
 curl http://example.com
-```
+```  
 
 * Save URL/URI output to file
 ```
@@ -38,19 +38,17 @@ curl example.com > saved-example.html
 * Show request and response header
 ```
 curl -v example.com
-```
+```  
 
 * Display only response header
 ```
 curl --head example.com
-```
+```  
 
 * Download file from FTP Server
 ```
-curl --head example.com
-```
 curl -u user:password -O ftp://yourftpurl/index.html
-```
+```  
 
 See https://www.booleanworld.com/curl-command-tutorial-examples/ for more examples
 

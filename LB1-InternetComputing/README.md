@@ -20,7 +20,7 @@
 </br>
 
 
-## Hilfsmittel
+## Sources
 
 * Akamai -Überwachung der globalen Internetbedingungen    
   [Akamai](https://www.akamai.com/de/de/resources/visualizing-akamai/)
@@ -37,5 +37,9 @@
   [Google Trends](https://trends.google.com/trends/hottrends/visualize?nrow=4&ncol=4)   
   [Real Time Tweets Map](https://www.tweeplers.com/map/)    
   etc.  
+  
+* Internet Cyber Attacks
+  [Digital Attack Map](https://www.digitalattackmap.com/gallery/)  
+  etc.
 </br>  
 

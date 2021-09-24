@@ -4,17 +4,20 @@
 
 ## Tools
 
-* **Client for URLs (CURL)**
+* **Client for URLs (CURL)**  
   CURL [Project](https://curl.haxx.se/)     
   CURL [Guide](https://ec.haxx.se/) is an extensive guide for all things curl
   CURL [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
    
 > Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL Online or CommandLine
 
-* Stanford National Accelarator Laboratory  
+* Web Traffic Visualization  
+  [Logstalgia](logstalgia.io) is a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.
+
+* Stanford National Accelarator Laboratory Network Monitoring    
   [Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)
   
-* MX Toolbox Inc  
+* MX Toolbox Inc Supertool   
   [Supertool](https://mxtoolbox.com/SuperTool.aspx)
 
 </br>

@@ -25,12 +25,32 @@ In Windows 10 you can use Curl directly from your Command Line, see [How To Chec
 ![Win10 Curl Commandline](figures/screen-shot-win10-CURL-commandline.jpg)
 
 ### Some Command Line Examples
-* xxx
+* Verify if you can connect to the URL
 ```
-curl xxx
+curl example.com
+curl http://example.com
 ```
 
-* yyy
+* Save URL/URI output to file
+```
+curl example.com > saved-example.html
 
-* zzz
+* Show request and response header
+```
+curl -v example.com
+```
+
+* Display only response header
+```
+curl --head example.com
+```
+
+* Download file from FTP Server
+```
+curl --head example.com
+```
+curl -u user:password -O ftp://yourftpurl/index.html
+```
+
+See https://www.booleanworld.com/curl-command-tutorial-examples/ for more examples
 

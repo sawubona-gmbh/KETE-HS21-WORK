@@ -10,10 +10,11 @@ See [EDUCBA-Network Security Tutorial](https://www.educba.com/software-developme
 The operating system consists of various built-in, command-line networking utilities that are used for network troubleshooting. You will find various networking commands examples which are most essentials for a network administrator.
 
 ### Some Networking Command Examples
-* Verify if you can connect to the URL
+* Ping  
+Ping is used to testing a network host capacity to interact with another host. Just enter the command Ping, followed by the target host’s name or IP address. The ping utilities seem to be the most common network tool. This is performed by using the Internet Control Message Protocol, which allows the echo packet to be sent to the destination host and a listening mechanism. If the destination host reply to the requesting host, that means the host is reachable. This utility usually gives a basic image of where there may be a specific networking issue.  
 ```
-curl example.com
-curl http://example.com
+ping example.com
+ping google.ch
 ```  
 
 * Save URL/URI output to file

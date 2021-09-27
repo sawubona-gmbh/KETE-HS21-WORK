@@ -8,9 +8,9 @@ function setup() {
 function draw() {
   // Put drawings here
   if (mouseIsPressed) {
-    fill(45);
+    fill(81);
   } else {
-    fill(215);
+    fill(20);
   }
   ellipse(mouseX, mouseY, 80, 80);
 }

@@ -25,7 +25,9 @@
 </br>
 
 ## (Inter)Networking Examples
-> See [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for some examples on exploring the (Inter)Network 
+> See [HOWTO_Networking](LB1-InternetComputing/HOWTO_Networking.md) for some examples on exploring the (Inter)Network 
+
+</br>
 
 ## Sources
 

@@ -39,11 +39,22 @@ To communicate with each and other, the computer needs a unique address. A hostn
 hostname
 ```  
 
-* Download file from FTP Server
+* **Tracert**  
+The tracert command is a Command Prompt command which is used to get the network packet being sent and received and the number of hops required for that packet to reach to target. This command can also be referred to as a *traceroute*. It provides several details about the path that a packet takes from the source to the specified destination.  
 ```
-curl -u user:password -O ftp://yourftpurl/index.html
+tracert example.com
+tracert sbb.ch
 ```  
 
-See https://www.booleanworld.com/curl-command-tutorial-examples/ for more examples
+* **Nslookup**    
+The Nslookup, which stands for name server lookup command, is a network utility command used to obtain information about internet servers. It provides name server information for the DNS (Domain Name System), i.e. the default DNS server’s name and IP Address.  
+```
+nslookup
+nslookup example.com
+```  
+
+### Other Ways of (Inter)Networking Exploration
+
+* [Whatsmyipaddress] (https://whatismyipaddress.com/de/meine-ip)
 
 

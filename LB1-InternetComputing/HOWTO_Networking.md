@@ -54,7 +54,13 @@ nslookup example.com
 ```  
 
 ### Other Ways of (Inter)Networking Exploration
+What's my current IP Address  
+* [Whatsmyipaddress] (https://whatismyipaddress.com/de/meine-ip)  
+* [Whatsmyip](https://www.whatismyip.com/de/)  
+* [NordVPN](https://nordvpn.com/de/what-is-my-ip/)  
 
-* [Whatsmyipaddress] (https://whatismyipaddress.com/de/meine-ip)
+IP geolocation is the science of determining the physical location and Internet connection characteristics of a web visitor. Much like how a street address identifies where you live, an IP address functions as the identifying "street address" of the device and allows companies to see where the device is located and route traffic to the nearest server for faster connections and lower latency.  
+* [IPlocation](https://www.iplocation.net/)  
+* [IP2location](https://www.ip2location.com/)  
 
 

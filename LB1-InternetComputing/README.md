@@ -1,5 +1,5 @@
 # LB1 - Internet Computing README
-###### Last update: 24/9/21 dbe
+###### Last update: 27/9/21 dbe - added HOWTO-Networking
 </br>
 
 ## Tools

@@ -54,8 +54,8 @@ nslookup example.com
 ```  
 
 ### Other Ways of (Inter)Networking Exploration
-What's my current IP Address  
-* [Whatsmyipaddress] (https://whatismyipaddress.com/de/meine-ip)  
+What is my IP? It’s an odd question in most people’s minds, yet it’s one of the top ten most-searched questions on Google.  Our digital world is similar, and has an address system that allows network traffic to move around the internet. So, an IP (internet protocol) address — which also has its own implicit structure — is fundamentally a numeric address for an endpoint on the internet. 
+* [Whatsmyipaddress](https://whatismyipaddress.com/de/meine-ip)  
 * [Whatsmyip](https://www.whatismyip.com/de/)  
 * [NordVPN](https://nordvpn.com/de/what-is-my-ip/)  
 

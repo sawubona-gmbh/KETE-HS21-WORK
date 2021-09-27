@@ -10,26 +10,33 @@ See [EDUCBA-Network Security Tutorial](https://www.educba.com/software-developme
 The operating system consists of various built-in, command-line networking utilities that are used for network troubleshooting. You will find various networking commands examples which are most essentials for a network administrator.
 
 ### Some Networking Command Examples
-* Ping  
+* **Ping**  
 Ping is used to testing a network host capacity to interact with another host. Just enter the command Ping, followed by the target host’s name or IP address. The ping utilities seem to be the most common network tool. This is performed by using the Internet Control Message Protocol, which allows the echo packet to be sent to the destination host and a listening mechanism. If the destination host reply to the requesting host, that means the host is reachable. This utility usually gives a basic image of where there may be a specific networking issue.  
 ```
 ping example.com
 ping google.ch
 ```  
 
-* Save URL/URI output to file
+* **NetStat**  
+Netstat is a Common TCP – IP networking command-line method present in most Windows, Linux, UNIX, and other operating systems. The netstat provides the statistics and information in the use of the current TCP-IP Connection network about the protocol.  
 ```
-curl example.com > saved-example.html
+netstat  
+netstat -o
+netstat -e
+netstat -s
 ```  
 
-* Show request and response header
+* **IPconfig**  
+The command IP config will display basic details about the device’s IP address configuration. Just type IP config in the Windows prompt and the IP, subnet mask and default gateway that the current device will be presented. If you have to see full information, then type on command prompt *ipconfig /all* and then you will see full information.  
 ```
-curl -v example.com
+ipconfig  
+ipconfig /all
 ```  
 
-* Display only response header
+* **Hostname**  
+To communicate with each and other, the computer needs a unique address. A hostname can be alphabetic or alphanumeric and contain specific symbols used specifically to define a specific node or device in the network.  
 ```
-curl --head example.com
+hostname
 ```  
 
 * Download file from FTP Server

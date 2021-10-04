@@ -62,6 +62,6 @@ You can also create a Lightsail load balancer and attach target instances to cre
 ## Get started now<a name="get-started-now-and-create-your-first-instance"></a>
 
 You can do any of the following to get going:
-+  [Create your first instance](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/master/doc_source/getting-started-with-amazon-lightsail.md) 
++  [Create your first instance on Amazon Lightsail](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/master/doc_source/getting-started-with-amazon-lightsail.md) 
 +  [Connecting to your Linux or Unix instance in Amazon Lightsail](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/master/doc_source/how-to-create-amazon-lightsail-instance-virtual-private-server-vps.md) 
 +  [Creating a DNS zone to manage your domain’s DNS records in Amazon Lightsail](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/master/doc_source/lightsail-how-to-create-dns-entry.md) 

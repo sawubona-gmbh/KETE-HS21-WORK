@@ -1,4 +1,4 @@
-# What is Amazon Lightsail?<a name="what-is-amazon-lightsail"></a>
+# DOC: What is Amazon Lightsail?<a name="what-is-amazon-lightsail"></a>
 ##### Copied from https://github.com/awsdocs/amazon-lightsail-developer-guide / 20/09/2020 by dbe
  *Last updated: January 13, 2020* 
 

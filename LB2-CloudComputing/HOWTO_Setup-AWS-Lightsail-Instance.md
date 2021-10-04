@@ -1,4 +1,5 @@
 # Create an Amazon Lightsail instance<a name="how-to-create-amazon-lightsail-instance-virtual-private-server-vps"></a>
+##### Last update: 24/9/20 dbe
 
 You can create a Lightsail instance, also known as a virtual private server \(VPS\), running an application like WordPress or a development stack like LAMP in seconds\. After your instance starts running, you can connect to it via SSH without leaving Lightsail\. Here's how\.
 

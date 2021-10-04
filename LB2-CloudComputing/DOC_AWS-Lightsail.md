@@ -50,7 +50,7 @@ You can also create a Lightsail load balancer and attach target instances to cre
 
 **Linux**
 + LAMP stack \(PHP 7\) certified by Bitnami
-+ Node\.js certified by Bitnami
++ **Node\.js** certified by Bitnami
 + MEAN Stack certified by Bitnami \(HVM\)
 + LEMP Stack \(Nginx\) by Bitnami
 + Django certified by Bitnami

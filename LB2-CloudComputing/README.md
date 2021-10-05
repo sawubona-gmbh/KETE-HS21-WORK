@@ -1,14 +1,13 @@
 # LB2 - Cloud Computing README
-###### Last update: 20/9/20 dbe
+###### Last update: 6/10/21 dbe
 </br>
 
-## Tasks AFTER the LB session at 22/9/2020
+## Tasks AFTER the LB2 Cloud Computing session
 </br>
-1. Setup a personal AWS (Free) Account  
+1. Setup a personal **(free) AWS Account**  
+Gehen Sie zur [Amazon Web Services (AWS) Educate Website](https://aws.amazon.com/de/education/awseducate/?nc1=h_ls) und registrieren Sie dort ihr persönliches kostenloses AWS Konto
 </br>
-Gehen Sie zur **Amazon Web Services (AWS) Website** (https://aws.amazon.com/de/free/) und registrieren Sie dort ein kostenloses AWS Konto
-</br>
-> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services durchgeführt
+> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services - konkret mit AWS Lightsail - durchgeführt
 </br>
 </br>
 2. Alterativ: Setup a personal Azure (Student) Account

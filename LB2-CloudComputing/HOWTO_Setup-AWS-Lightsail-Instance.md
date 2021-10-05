@@ -1,5 +1,5 @@
-# HOWTO: Create an Amazon Lightsail instance<a name="how-to-create-amazon-lightsail-instance-virtual-private-server-vps"></a>
-##### Last update: 24/9/20 dbe
+# HOWTO: Create an Amazon Lightsail IaaS instance<a name="how-to-create-amazon-lightsail-instance-virtual-private-server-vps"></a>
+##### Last update: 6/10/21 dbe
 
 You can create a Lightsail instance, also known as a virtual private server \(VPS\), running an application like WordPress or a development stack like LAMP in seconds\. After your instance starts running, you can connect to it via SSH without leaving Lightsail\. Here's how\.
 
@@ -9,7 +9,7 @@ You can create a Lightsail instance, also known as a virtual private server \(VP
 
    *Choose **Change Region and zone** to create your instance in another location\*
 
-1. Optionally, you can change the Availability Zone
+1. Optionally, you can change the **Availability Zone**
 
    *Choose an Availability Zone from the dropdown list\*
 
@@ -17,14 +17,14 @@ You can create a Lightsail instance, also known as a virtual private server \(VP
 
    *To learn more about Lightsail instance images, see [Choose an Amazon Lightsail instance image](compare-options-choose-lightsail-instance-image.md)*
 
-1. Choose your **instance plan**
+1. Choose your **Instance plan**
 
    *You can try the $3\.50 USD Lightsail plan free for one month \(up to 750 hours\)\. We will credit one free month to your account\. </a> 
    Learn more on our [Lightsail pricing page](http://www.amazonlightsail.com/pricing/)*
 
-1. Enter **a name** for your instance\.
+1. Enter a **Name** for your instance\.
 
-   Note Conditions for resource names:
+   Note requirements for Lightsail resource names:
    + Must be unique within each AWS Region in your Lightsail account\.
    + Must contain 2 to 255 characters\.
    + Must start and end with an alphanumeric character or number\.
@@ -60,6 +60,7 @@ If you want to connect to your instance using an SSH client such as PuTTy, you c
 1. You can now type commands into the terminal and manage your Lightsail instance without setting up an SSH client\.  
 ![\[Browser-based SSH terminal in Amazon Lightsail\]](https://d9yljz1nd5001.cloudfront.net/en_us/2f596334045058acdba2fdcc5e035cef/images/amazon-lightsail-bitnami-terminal-window.png)
 
+---
 ## Next steps<a name="create-an-instance-next-steps"></a>
 
 Now that you can connect to your instance, what you do next depends on how you plan to use it\. For example:

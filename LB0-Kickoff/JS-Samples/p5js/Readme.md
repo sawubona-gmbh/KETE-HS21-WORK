@@ -17,12 +17,14 @@ index.html
 css/screen.css
 ```
 
-## How to use it with codesandbox.io
+## How to use it with the p5js.org online editor
+1. Copy the code from [sketch.js](LB0-Kickoff/JS-Samples/AntColonySimulation/AntColony-Simulation.js) on github into your clipboard
+2. [Open the online p5 editor](https://editor.p5js.org/)
+3. Clear the editor window first and then insert the copied code into the editor window
+4. Push the "play" button and ... have fun
 
-1. create new sandbox, using p5.js template
-1. copy sketch.js code into sketch.js file
-1. watch the browser output
-1. play around with parameters in the sketch.js variables section 
 
 ## Additional resources/samples
-* [COVID-19 (Coronavirus) spread simulator](https://github.com/midudev/covid-19-spread-simulator) based on Washington Post Article: *Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”* (March 2020)</br>
+* See [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony) for a detailed description of the code and more p5js example applications
+
+

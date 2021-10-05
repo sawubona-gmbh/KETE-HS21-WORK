@@ -3,7 +3,9 @@
 ##### Last update: 6/10/21 dbe - adapted from [Amazon Lightsail Develeoper Guide](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/d1bef232c5e3c2c96cdd916c31ee98999ca67f25/doc_source/amazon-lightsail-quick-start-guide-nodejs.md)  
 
 
-Here are a few steps you should take to get started after your Node\.js instance is up and running on Amazon Lightsail:
+Here are a few steps you should take to get started after your **Node\.js** instance is up and running on Amazon Lightsail. See [NodeJS.org](https://nodejs.org/en/) for more information and documentation on Node\.js. 
+
+*Note: You can also download an installation kit and setup a Node\.js server on premise.*
 
 ### Step 1: Get the default application password for your Node\.js instance<a name="amazon-lightsail-nodejs-get-the-default-user-password"></a>
 

@@ -1,4 +1,4 @@
-# COVID-19 Simulator  
+# CODE: Covid-19 Simulator  
 
 ##### last update 23.09.2020/dbe
 
@@ -22,6 +22,6 @@ css/screen.css
 1. play around with parameters in the sketch.js variables section 
 
 ## Additional resources/samples
-https://github.com/midudev/covid-19-spread-simulator </br>
-https://corona.katapult-magazin.de/
+* [COVID-19 (Coronavirus) spread simulator](https://github.com/midudev/covid-19-spread-simulator) based on Washington Post Article: *Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”*</br>
+* [Corona Virus Spreading Visualization](https://corona.katapult-magazin.de/) at *Katapult-Magazin* (DE)
 

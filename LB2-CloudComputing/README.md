@@ -8,7 +8,7 @@
   Gehen Sie zur [Amazon Web Services (AWS) Educate Website](https://aws.amazon.com/de/education/awseducate/?nc1=h_ls) und registrieren Sie dort ihr persönliches kostenloses AWS   Konto
   </br>  
 
-> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services - konkret mit **AWS Lightsail** - durchgeführt  
+> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services - konkret mit **AWS Lightsail** vgl. [DOC What is AWS Lightsail](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/17d6bd8729929c24e36ed1919a1ec17d6e634d0f/LB2-CloudComputing/DOC_AWS-Lightsail.md)- durchgeführt  
    
 Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-lightsail-developer-guide/tree/master/doc_source) findet sich eine grosse Dokumentation and Anleitungen für die vielfältige Nutzung von AWS Lightsail (IaaS) Services.  
 </br> 
@@ -33,7 +33,7 @@ Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-l
 
 
 ## Cloud Computing Examples
-> See [HOWTO_Networking](LB1-InternetComputing/HOWTO_Networking.md) for some examples on exploring the (Inter)Network 
-
+* See [HOWTO_Setup an AWS Lightsail IaaS Instance](LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
+* see [HowTo]() for xxx
 </br>
 

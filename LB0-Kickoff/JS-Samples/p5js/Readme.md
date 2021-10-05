@@ -26,6 +26,6 @@ css/screen.css
 
 ## Additional resources/samples
 * Find more examples and sketches on [P5JS.org](https://p5js.org/examples/)
-* 
+* Have look at the book [Getting Started with p5.js](https://www.oreilly.com/library/view/make-getting-started/9781457186769/)
 
 

@@ -1,6 +1,6 @@
-# Ant Colony Simulation
+# CODE: Ant Colony Simulation
 
-##### last update 6.09.2021/dbe
+##### last update 5.10.2021/dbe
 
 This sketch implements a version of an [Ant Colony Optimization (ACO) Algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms).  
 
@@ -15,13 +15,19 @@ Author: [Kevin Workman](https://stackoverflow.com/cv/KevinWorkman)
 
 Use standards p5.js file conventions
 ```
-AntColony.js
+AntColony-Simulation.js
 ```
 
 ## How to use it with the p5js.org online editor
-
-1. [Open code in the p5 editor](https://editor.p5js.org/KevinWorkman/sketches/BPYoZ__je)
+1. [Open code from Kevin Workman directly in the online p5 editor](https://editor.p5js.org/KevinWorkman/sketches/BPYoZ__je)
 2. Push the "play" button and ... have fun
+
+*Alternatively*
+1. Copy the code from AntColony-Simulation.js into your clipboard
+2. [Open the online p5 editor](https://editor.p5js.org/)
+3. Clear the editor window first and then insert the copied code into the editor window
+4. Push the "play" button and ... have fun
+
 
 ## Additional resources/samples
 * See [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony) for a detailed description of the code and more p5js example applications

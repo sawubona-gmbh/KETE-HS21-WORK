@@ -28,4 +28,12 @@ Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-l
    Gehen Sie zur [Google Cloud Platform (GCP) Website](https://cloud.google.com/) und registrieren Sie dort ein Google Cloud Platform Student Konto
    </br>
 
-> Unter [Google for Education](https://edu.google.com/products/google-cloud) findet sich zudem zahlreiches Material, Links und Unterlagen für Forscher, Studierende, Lehrpersonen zu Google Cloud Services
+> Unter [Google for Education](https://edu.google.com/products/google-cloud) findet sich zudem zahlreiches Material, Links und Unterlagen für Forscher, Studierende, Lehrpersonen zu Google Cloud Services  
+
+
+
+## Cloud Computing Examples
+> See [HOWTO_Networking](LB1-InternetComputing/HOWTO_Networking.md) for some examples on exploring the (Inter)Network 
+
+</br>
+

@@ -34,6 +34,6 @@ Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-l
 
 ## Cloud Computing Examples
 * See [HOWTO_Setup an AWS Lightsail IaaS Instance](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/19e2ef9e29935f0ebadc1c82edb84e20e89efb90/LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
-* see [HowTo]() for xxx
+* see [HOWTO: Create a NodeJS server instance on AWS Lightsail]() for xxx
 </br>
 

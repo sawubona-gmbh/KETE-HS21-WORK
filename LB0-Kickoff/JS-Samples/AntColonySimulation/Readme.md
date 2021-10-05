@@ -23,7 +23,7 @@ AntColony-Simulation.js
 2. Push the "play" button and ... have fun
 
 *Alternatively*
-1. Copy the code from [AntColony-Simulation.js](LB0-Kickoff/JS-Samples/AntColonySimulation/AntColony-Simulation.js) on github into your clipboard
+1. Copy the code from [AntColony-Simulation.js](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/6b1c4c72880607086217ce759859ded9426da96f/LB0-Kickoff/JS-Samples/AntColonySimulation/AntColony-Simulation.js) on github into your clipboard
 2. [Open the online p5 editor](https://editor.p5js.org/)
 3. Clear the editor window first and then insert the copied code into the editor window
 4. Push the "play" button and ... have fun

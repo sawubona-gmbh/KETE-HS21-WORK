@@ -25,6 +25,7 @@ css/screen.css
 
 
 ## Additional resources/samples
-* See [HappyCoding](https://happycoding.io/examples/p5js/creating-classes/ant-colony) for a detailed description of the code and more p5js example applications
+* Find more examples and sketches on [P5JS.org](https://p5js.org/examples/)
+* 
 
 

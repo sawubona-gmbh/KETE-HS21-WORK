@@ -2,8 +2,6 @@
 
 ##### Last update: 6/10/21 dbe - adapted from [Amazon Lightsail Develeoper Guide](https://github.com/awsdocs/amazon-lightsail-developer-guide/blob/d1bef232c5e3c2c96cdd916c31ee98999ca67f25/doc_source/amazon-lightsail-quick-start-guide-nodejs.md)  
 
-## Quick start guide: Node\.js on Amazon Lightsail
-*Last updated: August 13, 2018* 
 
 Here are a few steps you should take to get started after your Node\.js instance is up and running on Amazon Lightsail:
 

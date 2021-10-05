@@ -24,6 +24,6 @@ css/screen.css
 ## Additional resources/samples
 * [COVID-19 (Coronavirus) spread simulator](https://github.com/midudev/covid-19-spread-simulator) based on Washington Post Article: *Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”* (March 2020)</br>
 * [Corona Virus Spreading Visualization](https://corona.katapult-magazin.de/) at *Katapult-Magazin* (DE)
-* [NCBI Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883357/) "A Simulation Study of Coronavirus as an Epidemic Disease Using Agent-Based Modeling" ()
+* [NCBI Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883357/) "A Simulation Study of Coronavirus as an Epidemic Disease Using Agent-Based Modeling" (December 2020)
 * [frontiers in Public Health Paper](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00230/full) "A Simulation of a COVID-19 Epidemic Based on a Deterministic SEIR Model" (May 2020)
 

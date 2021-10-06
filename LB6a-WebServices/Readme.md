@@ -4,20 +4,18 @@
 
 ## A) Informationen im Internet von Webservices anfragen 
 
-### Example CODE  "GetIPAddress2" [see file](Example_GetIPAddress2.html)
-</br>
-Making HTTP/Web Requests in JavaScript using a website returning informational JSON objects  
-
+### Example CODE  "Example_GetIPAddress2.html" [see file](Example_GetIPAddress2.html)  
+Making HTTP/Web Requests in JavaScript using the IPInfo website returning informational JSON objects  
 * Using **IPInfo** - The trusted source for IP address data.  
   see https://ipinfo.io/json  
+  
+### Example CODE  "Example_GetDateTime.html" [see file](Example_GetDateTime.html)  
+Making HTTP/Web Requests in JavaScript using the JSONtest website returning informational JSON objects  
 * Using **JSONTEST** - A testing platform for services utilizing JavaScript Object Notation (JSON).   
   see https://www.jsontest.com/  
-</br>
 
-### Example CODE " Interactive MAP" [see file](Example_Interactive-MAP.html)
-</br>
+### Example CODE " Example_Interactive-MAP.html" [see file](Example_Interactive-MAP.html)  
 Using the Geolocation API and Google Maps API to visualize the current  IP location  
-
 * see https://www.w3schools.com/html/html5_geolocation.asp  
 * see https://developers.google.com/maps/documentation/javascript/examples/map-geolocation  
 </br>

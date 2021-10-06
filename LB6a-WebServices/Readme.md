@@ -38,16 +38,16 @@ Video tutorial playlist (12 clips) **Node.js crash course** from [The Net Ninja]
 
 ---
 ### HOWTO Node.js & Website auf einer Cloud Platform instanzieren
-
 #### Erstellen einer NodeJS Anwendung  auf **AWS Lightsail**  als Virtual Private Server (VPS)  
 * Medium [Blog of Aleem Isiaka (Dec'2019)](https://medium.com/@limistah/complete-nodejs-app-setup-on-an-aws-lightsail-vps-877df57a232)  
+Following through this post, you are able to configure an AWS Lightsail server instance from scratch to run a NodeJS app.
 </br>
 
 ##### Optional: Erstellen einer NodeJS Anwendung auf  der **Microsoft Azure** Cloud    
-* see https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux  
+* see [Microsoft Azure Doc](https://docs.microsoft.com/de-de/azure/app-service/quickstart-nodejs?pivots=platform-linux)  
 
 </br>
 
 ##### Optional: Erstellen einer NodeJS Anwendung auf  der **Google Cloud Platform** Cloud    
 Eine  NodeJS Anwendung, eine einfache Hello World-App, als Webdienst in der App Engine auf der **Google Cloud Platform** bereitstellen   
-* see https://cloud.google.com/appengine/docs/standard/nodejs/quickstart
+* see [Google Cloud Doc](https://cloud.google.com/appengine/docs/standard/nodejs/quickstart)  

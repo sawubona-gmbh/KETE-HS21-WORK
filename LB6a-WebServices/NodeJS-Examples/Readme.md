@@ -2,33 +2,41 @@
 ##### last update: 8/10/21 dbe
 
 ## Background
-A world of possibilities is opened to us through the internet and it can be accessed by connecting our devices to it. Without storing the information on the device permanently, we can access the information whenever necessary. The communication with others has become easier and it allows us to organize projects and work together. Networks are formed through the connected device and they run our lives. But such connections also leave our system vulnerable to damage and theft of information is possible. This problem can be solved using cybersecurity and network security and hence it is necessary to understand basic concepts of network security.  
-See [EDUCBA-Network Security Tutorial](https://www.educba.com/software-development/software-development-tutorials/network-security-tutorial/) for many more information and examples on this topic.
+Node.js is an exciting new platform for developing web applications, application servers, any sort of network server or client, and general-purpose programming. It is designed for extreme scalability in networked applications through an ingenious combination of server-side JavaScript, asynchronous I/O, and asynchronous programming.
+
+While only ten years old, Node.js has quickly grown in prominence and is now playing a significant role. Companies, both large and small, are using it for large-scale and small-scale projects. *PayPal*, [for example](https://medium.com/paypal-tech/node-js-at-paypal-4e2d1d08ce4f), has converted many services from Java to Node.js. Other large Node.js adopters include *Walmart's* online e-commerce platform, *LinkedIn*, and e*Bay*.
+
+At its heart, it is a standalone JavaScript engine ([Google's V8 JavaScript](https://v8.dev/) engine for Chrome), with extensions that is suitable for general-purpose programming and that has a clear focus on application server development. Node.js is not an application- server, but a programming runtime akin to Python, Go, or Java SE. While there are web application frameworks and application servers written in Node.js, it is simply a system to execute JavaScript programs.
+
+To simplify the situation, the Node.js community has several (web) application frameworks, such as Express, providing the higher-level interfaces required by typical programmers. You can quickly configure an HTTP server with baked-in capabilities, such as sessions, cookies, serving static files, and logging, letting developers focus on their business logic. 
+
+See [NodeJS.org](https://nodejs.org/en/) for more documentation and resources. [W3School](https://www.w3schools.com/nodejs/) for tutorials and programming examples. [NPM](https://www.npmjs.com/) for the *Node Package Manager* (NPM) and the nodejs paackage repository. And finally [Github](https://github.com/nodejs/community-committee) for the Node JS Community Committee.
 
 
+---
 ### Some NodeJS Application Examples
 * **cmd-wget.cjs**  
-Ping is used to testing a network host capacity to interact with another host. Just enter the command Ping, followed by the target host’s name or IP address. The ping utilities seem to be the most common network tool. This is performed by using the Internet Control Message Protocol, which allows the echo packet to be sent to the destination host and a listening mechanism. If the destination host reply to the requesting host, that means the host is reachable. This utility usually gives a basic image of where there may be a specific networking issue.  
+NodeJS script to simulate the well known CURL WGET command
 ```
 node wget.cjs http://example.com
 ```  
 
 * **demo-app1.js** / **demo-app2.js**  
-Netstat is a Common TCP – IP networking command-line method present in most Windows, Linux, UNIX, and other operating systems. The netstat provides the statistics and information in the use of the current TCP-IP Connection network about the protocol.  
+NodeJS HTTP Server in its simplest form. App1 is returning a simple "Hello World" content in plain text, whereas App2 is responding by a HTML string
 ```
 node demo-app1.js
 node demo-app2.js
 ```  
 
 * **demo-server1.js** / **demo-server2.js**  
-The command IP config will display basic details about the device’s IP address configuration. Just type IP config in the Windows prompt and the IP, subnet mask and default gateway that the current device will be presented. If you have to see full information, then type on command prompt *ipconfig /all* and then you will see full information.  
+Example NodeJS server, requesting (server side) Operating System Informations. Server2 is extended by a httpsniffer feature
 ```
 node demo-server1.js
 node demo-server2.js
 ```  
 
 * **demo-encode1.js** / **demo-encode2.js**  
-To communicate with each and other, the computer needs a unique address. A hostname can be alphabetic or alphanumeric and contain specific symbols used specifically to define a specific node or device in the network.  
+Example NodeJS server to demonstrate a simple encryption service which can be requested over the internet
 ```
 node demo-encode1.js
 node demo-encode2.js
@@ -36,7 +44,7 @@ node demo-encode2.js
 
 
 ### More information and examples
-What is my IP? It’s an odd question in most people’s minds, yet it’s one of the top ten most-searched questions on Google.  Our digital world is similar, and has an address system that allows network traffic to move around the internet. So, an IP (internet protocol) address — which also has its own implicit structure — is fundamentally a numeric address for an endpoint on the internet. 
 * [Node.js Web Development - Fifth Edition (packt.com)](https://www.packtpub.com/product/node-js-web-development-fifth-edition/9781838987572)  
-* [Whatsmyip](https://www.whatismyip.com/de/)  
-* xxx
+* [Best NodeJS Application Examples](https://www.futuremind.com/blog/best-nodejs-applications-examples)  
+* [Types on NodeJS Applications](https://os-system.com/blog/12-types-of-node-js-applications-with-examples/)  
+* [NodeJS Managed Runtime](https://docs.aws.amazon.com/apprunner/latest/dg/service-source-code-nodejs.html) on AWS App Runner

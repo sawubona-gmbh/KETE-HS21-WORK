@@ -1,7 +1,7 @@
 ## NodeJS Server Application - Some Examples
 ##### last update: 8/10/21 dbe
 
-![NodeJS](figures/node-js.png)  
+![NodeJS](../figures/node-js.png)  
 
 ## Background
 Node.js is an exciting new platform for developing web applications, application servers, any sort of network server or client, and general-purpose programming. It is designed for extreme scalability in networked applications through an ingenious combination of server-side JavaScript, asynchronous I/O, and asynchronous programming.

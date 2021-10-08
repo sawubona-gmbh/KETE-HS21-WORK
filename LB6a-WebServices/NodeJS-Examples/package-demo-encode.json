@@ -1,0 +1,14 @@
+{
+  "name": "demoapp",
+  "version": "2.0.0",
+  "description": "Some Node JS demo applications",
+  "main": "demo-encode1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "dbe",
+  "license": "ISC"
+}

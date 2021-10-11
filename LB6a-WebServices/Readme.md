@@ -51,3 +51,9 @@ Following through this post, you are able to configure an AWS Lightsail server i
 ##### Optional: Erstellen einer NodeJS Anwendung auf  der **Google Cloud Platform** Cloud    
 Eine  NodeJS Anwendung, eine einfache Hello World-App, als Webdienst in der App Engine auf der **Google Cloud Platform** bereitstellen   
 * see [Google Cloud Doc](https://cloud.google.com/appengine/docs/standard/nodejs/quickstart)  
+
+### NodeJS Application CODE Examples (for NodeJS platform on premise or on cloud)  
+NodeJS HTTP Server (*demo_app1.js*) in its simplest form. App1 is returning a simple "Hello World" content in plain text or in HTML form. NodeJS server (*demo-server1.js*), requesting (server side) Operating System Informations. Or, NodeJS server (*demo-encode1.js*) to demonstrate a simple encryption service which can be requested
+over the internet
+
+* see [NodeJS Server Application Examples](https://github.com/sawubona-gmbh/KETE-HS21-WORK/tree/master/LB6a-WebServices/NodeJS-Examples) for the necessary CODE source here on KETE GitHub repository

@@ -7,13 +7,43 @@ function setup() {
 
 function draw() {
   // Put drawings here
-  if (mouseIsPressed) {
-    fill(45);
-  } else {
-    fill(215);
-  }
-  ellipse(mouseX, mouseY, 80, 80);
+  fill(0, 150, 255);
+  rect(0, 60, 400, 30);
+
+  fill(0, 0, 255);
+  rect(0, 90, 400, 30);
+
+  fill(0, 150, 255);
+  rect(0, 120, 400, 30);
+
+  fill(0, 0, 255);
+  rect(0, 150, 400, 30);
+
+  // blue
+  fill(0, 150, 255);
+  rect(0, 180, 400, 30);
+
+  fill(0, 0, 255);
+  rect(0, 210, 400, 30);
+
+  fill(0, 150, 255);
+  rect(0, 240, 400, 30);
+  noStroke();
+  fill(255);
+  textStyle(BOLD);
+  textSize(40);
+  text("Key Technologies", 20, 175);
 }
+
+// This Redraws the Canvas when resized
+windowResized = function () {
+  resizeCanvas(windowWidth, windowHeight);
+};
+
+// This Redraws the Canvas when resized
+windowResized = function () {
+  resizeCanvas(windowWidth, windowHeight);
+};
 
 // This Redraws the Canvas when resized
 windowResized = function () {

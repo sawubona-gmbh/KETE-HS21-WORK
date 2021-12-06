@@ -1,5 +1,5 @@
 # UI/UX Prototyping 
-###### Last update: 18/11/20 hsa
+###### Last update: 6/12/21 hsa
 ## Difference between Wireframe, Mockup and Prototype
 A **Wireframe** is a skeletal framework of a website or app which has 3 simple goals; present the main page contents, outline the page structure and layout and display basic website/app UIs. So, **it is perfect to be used at the brainstorming or very early design stage.**
 
@@ -50,12 +50,3 @@ Here are some of Axure RP functionalities, which you may use in your project. En
 If you are familier with other Prototyping tools such as Adobe XD, Sketch or Figma, you can now easily import your design into Axure and bring your prototype design to life. [Here](https://www.axure.com/blog/category/axure-plugins) is a list of plugins which are approved by Axure.
 
 And if you want to add fancy fonts, icons or even data visualization charts to your prototype, [here](https://www.axure.com/support/download-widget-libraries) is a list of free and premium widget libraries for you to use.
-
----
-## Examples
-### A Chatbot Prototype
-[Get a Refund](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/Get%20a%20Refund.rp) is a complete Axure RP Prototype.  
-It is a chatbot for getting a refund from Energy Provider after a wrong Card OR Key top up. 
-
-### Using Google Maps with Geolocation
-You can also use [Google Maps with Geolocation](https://github.com/sawubona-gmbh/KETE-HS20-WORK/blob/master/LB6c-UI-UX-Prototyping/John%20Krahenbuhl%20-%20Axure%20RP%20Prototyping%20Cookbook-PACKT%20(2014)-Chapter%202.pdf) to create dynamic prototypes.

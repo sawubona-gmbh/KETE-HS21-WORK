@@ -7,12 +7,13 @@ function setup() {
 
 function draw() {
   // Put drawings here
-  if (mouseIsPressed) {
-    fill(45);
-  } else {
-    fill(215);
-  }
-  ellipse(mouseX, mouseY, 80, 80);
+  fill(20, 31, 81);
+  noStroke();
+  rect(50, 50, 250, 250);
+  fill(255);
+  textStyle(BOLD);
+  textSize(140);
+  text("p5*", 60, 250);
 }
 
 // This Redraws the Canvas when resized
